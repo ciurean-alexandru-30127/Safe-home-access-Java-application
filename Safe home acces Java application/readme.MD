@@ -1,4 +1,4 @@
-# Lab 7 - Safe Home Access
+
 
 
 ## Exercise 1 - Java implementation
@@ -14,7 +14,7 @@ Implement a safe home access Java application based on the diagram above. Consid
 7. All attempts (successful or not) will be logged in access log list.
 8. Simulate all operations in _main_ from _SafeHome_.
 
-**NOTE - Java project come with prefiled unit tests. You should make sure all tests pass. You are not allowed to change unit tests (except initialisation of Controller object in the _instantiateDoorController()_ method**).
+.
 
 ## Exercise 2 - State machine diagram
 
